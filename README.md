@@ -73,8 +73,8 @@
 <h2> 📫 Get in Touch</h2>
 <div> 
 <ul dir="auto">
-<li><a href="www.linkedin.com/in/dheeraj-singh-52689420b" rel="nofollow">LinkedIn</a></li>
-<li><a href="https://dheerajsinghbisht.info" rel="nofollow">Portfolio</a></li>
+<li><a href="www.linkedin.com/in/dheeraj-singh-52689420b" target="_blank" rel="nofollow">LinkedIn</a></li>
+<li><a href="https://dheerajsinghbisht.info" target="_blank" rel="nofollow">Portfolio</a></li>
 </ul>
 </div>
 
