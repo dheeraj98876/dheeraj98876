@@ -69,7 +69,7 @@
 <img src="https://camo.githubusercontent.com/490cee272770c4b335a22f14699aba554dedc48e6044594424c9ba738cb4af59/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616268692d32313037266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="Top Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-2107&amp;layout=compact&amp;theme=radical" style="max-width: 100%;">
 </div>
 
-
+<hr>
 <h2> 📫 Get in Touch</h2>
 <div> 
 <ul dir="auto">
